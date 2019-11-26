@@ -1,9 +1,11 @@
 # Project: Deep Learning in Vision Classificate Sunny vs. Cloudy Weather
 
 ## Goal
+Meet Alexa. She is so excited! She will solve several classifying problems like differentiate between sunny and cloudy images, lake and mountains, holiday countries like United States of America and China … At the end of her project she made a important lesson: Alone the classification of the sunny and cloudy pictures was very time consuming.  
 
 
 ## Results
+Performed several deep learning models to differentiate between sunny and cloudy pictues. Alexa tested Convolutional Nets as well to see which areas of the pictures are most relevant for classification. She used transfer learning models as well. Finally Alexa performed Mask R-CNNs to define objects within a picture with a suitable visual object frame. Enjoy the results in the "__Jupyter Notebook Object Detection Tag Sunny vs. Cloudy__.ipynb" as well as in "./results/Deep Learning in Vision Assignment  «Crazy Picture Predictions».pptx" files!
 
 
 ## Outlook
