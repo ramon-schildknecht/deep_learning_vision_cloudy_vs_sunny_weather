@@ -13,4 +13,4 @@ Alexa could try to perform image captioning. Caption generation is a challenging
 
 
 ## Hint
-One must save the juptyer notebook ("__Jupyter Notebook Object Detection Tag Sunny vs. Cloudy__.ipynb" named "mask_rcnn_coco.h5" on its own due to Github size limits.  
+One must save the juptyer notebook ("__Jupyter Notebook Object Detection Tag Sunny vs. Cloudy__.ipynb") models named "mask_rcnn_coco.h5" and "model_fine_tuned.h5" on her/his own due to Github size limits.  
