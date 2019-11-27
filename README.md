@@ -10,3 +10,7 @@ Performed several deep learning models to differentiate between sunny and cloudy
 
 ## Outlook
 Alexa could try to perform image captioning. Caption generation is a challenging artificial intelligence problem where a textual description must be generated for a given photograph. 
+
+
+## Hint
+One must save the juptyer notebook ("__Jupyter Notebook Object Detection Tag Sunny vs. Cloudy__.ipynb" named "mask_rcnn_coco.h5" on its own due to Github size limits.  
