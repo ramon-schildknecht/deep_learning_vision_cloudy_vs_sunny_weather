@@ -12,7 +12,7 @@ Performed several deep learning models to differentiate between sunny and cloudy
 Alexa could try to perform image captioning. Caption generation is a challenging artificial intelligence problem where a textual description must be generated for a given photograph. 
 
 ## Reproducibility
-Set up the Python environment according to (this manual)[https://www.evernote.com/l/Ai8y0xsAAV9BY7SFOiuwCkBB-bYRfGdT9wE/]. 
+Set up the Python environment according to [this manual](https://www.evernote.com/l/Ai8y0xsAAV9BY7SFOiuwCkBB-bYRfGdT9wE/). 
 
 ## Hint
 One must save the juptyer notebook ("__Jupyter Notebook Object Detection Tag Sunny vs. Cloudy__.ipynb") models named "mask_rcnn_coco.h5" and "model_fine_tuned.h5" on her/his own due to Github size limits.  
